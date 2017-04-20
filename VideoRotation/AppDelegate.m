@@ -25,7 +25,7 @@
     UINavigationController *navi = [[UINavigationController alloc] initWithRootViewController:mainVC];
     _window.rootViewController = navi;
     
-    
+    NSLog(@"666");
     
     return YES;
 }
